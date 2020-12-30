@@ -10,12 +10,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  fr:
-    languageName: Français
-    weight: 3
-  de:
-    languageName: Deutsch
-    weight: 5
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: fr
@@ -56,7 +50,7 @@ params:
   gitRepo: https://github.com/wassfila/website.git
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

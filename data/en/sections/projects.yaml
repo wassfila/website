@@ -21,44 +21,88 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Camera Based Systems
+  logo: /images/sections/projects/Bosch.ico
+  role: Software Architect
+  timeline: "July 2014 - June 2019"
+  summary: "Projects at Bosch : Parking assistance generation 1 for BMW. Parking assistance generation 2 for Daimler."
+  tags: ["professional", "cameras", "ECU"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
-
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
-
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
+- name: Infotainment
+  logo: /images/sections/projects/BMW.ico
+  role: System Architect
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  summary: "Projects at BMW : Head Unit 2018/21. Audio Amplifier 2018/21. Head Unit 2022, Head Unit 2023, Future generations Control Units."
+  tags: ["professional", "audio","ECU"]
+
+- name: Genivi Alliance Android Audio HAL
+  logo: /images/sections/projects/GENIVI.ico
+  role: Participant
+  timeline: "Jul 2020 - Present"
+  url: https://at.projects.genivi.org/wiki/display/DIRO/AA+SIG+-+Audio+HAL+-+Meeting+Minutes
+  summary: GENIVI Alliance scope is to help automakers and their suppliers develop standard approaches to integrate vehicle software and to enhance vehicle connectivity to the cloud.
+  tags: ["professional", "automotive", "open-source"]
+
+- name: Set Top Boxes
+  logo: /images/sections/projects/stmicroelectronics.svg
+  role: Developer
+  timeline: "Mai 2006 - July 2007"
+  summary: "Projects at ST Microelectronics : HDMI and CEC drivers for two families of Set Top Boxes running on ST-Operating System and Linux."
+  tags: ["professional", "video","ECU"]
+
+- name: Human Posture Recognition
+  logo: /images/sections/projects/posture.png
+  role: Researcher
+  timeline: "Oct 2009 - Nov 2014"
+  url: https://www.slideshare.net/wassimfilali/these-soutenance-presenteeenglish
+  summary: "Projects at LAAS CNRS : Construction of volume from multiple depth images followed by Voxels classification with Random Forest into body parts."
+  tags: ["professional", "academic","ML"]
+
+- name: Smart Home 3D Webapp
+  logo: /images/sections/projects/3d.ico
+  role: Owner
+  timeline: "Dec 2019 - Aug 2020"
+  repo: https://github.com/HomeSmartMesh/smart_home_3d_webapp
+  summary: Interactive 3D Home model, with objects reflecting sensors status. Clicks and 3d sliders control the heating.
+  tags: ["hobby","webapp"]
+
+- name: nRF custom Mesh
+  logo: /images/sections/projects/Nordic.png
+  role: Owner
+  timeline: "May 2018 - Aug 2020"
+  repo: https://github.com/nRFMesh/nRF52_Mesh
+  summary: Custom Mesh Netowrk RF protocol (with repeaters and low power end nodes), uart text serialisation for MQTT publishing.
+  tags: ["hobby","webapp"]
+
+- name: Home Automation Framework
+  logo: /images/sections/projects/Raspberry.png
+  role: Owner
+  timeline: "Dec 2018 - Present"
+  repo: https://github.com/HomeSmartMesh/raspi
+  summary: "Back-end : services, middlewares and Python/Node.js applications. Front-end : webapps and connected smart buttons and controllers"
+  tags: ["hobby", "raspberrypi","RF"]
+
+- name: Network Graph Layout with Physics
+  logo: /images/sections/projects/graphysics.ico
+  role: Owner
+  timeline: "Dec 2018 - Present"
+  repo: https://github.com/NetworkGraphs/graphysics
+  summary: Experimental graph with collision Physics, using SVG with style, Interactive Nodes mutations and cost based partial layout
+  tags: ["hobby", "graphs","SVG"]
+
+- name: Voronoi webapp
+  logo: /images/sections/projects/voronoi.png
+  role: Owner
+  timeline: "Apr 2020 - Sept 2020"
+  repo: https://github.com/WebSVG/voronoi
+  summary: Parametric Voronoi generator with real time editing and SVG export
+  tags: ["hobby", "voronoi","SVG"]
+
+- name: Low Power ESP Solar Board
+  logo: /images/sections/projects/spower.png
+  role: Core Member
+  timeline: "Aug 2020 - Present"
+  repo: https://github.com/SensorsIot/SuperPower
+  summary: The ESP Team focus on the ESP32 board targeting low power consumption and solar charging
+  tags: ["hobby", "social","open-source"]
+
