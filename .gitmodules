@@ -1,3 +1,7 @@
 [submodule "themes/toha"]
 	path = themes/toha
 	url = https://github.com/hugo-toha/toha.git
+[submodule "public"]
+	path = public
+	url = https://github.com/wassfila/wassfila.github.io.git
+	branch = master
