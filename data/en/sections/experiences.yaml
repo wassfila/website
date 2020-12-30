@@ -11,54 +11,77 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: BMW AG.
+    url: "https://www.bmw.com"
+    location: Munich, Germany
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Infotainment and communication department. Control units for the BMG Group car models.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: System Architect Infotainment
+    start: Jul 2019
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Design cross Control Unit architecture
+    - Control Unit software cross domains interfaces design and hardware abstraction concept
+    - Software components definition and configuration
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Robert Bosch GmbH.
+    url: "https://www.bosch.com/"
+    location: Stuttgart, Germany
+    overview: Automotive, Cameras Parking assistance department.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Software Developer
+    start: Jul 2014
+    end: Jun 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Basic Software developer for Ethernet switch driver
+    - SOME/IP network communication configuration
+
+  - designation: Software Architect
+    start: Jul 2016
+    end: Jun 2019
+    responsibilities:
+    - Low level infrastructure software (Bootloaders, Startup sequence, communication)
+    - Hypervisor and multi-cortex memory layout
+    - High speed serial custom protocol design for cross SoC
+    - Middleware design for hardware based events communication cross Cores and cross cortex
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: National Scientific Research Center (LAAS-CNRS)
+    url: "https://www.laas.fr/"
+    location: Toulouse, France
+    overview: LAAS, Laboratory of Analysis and Architecture of Systems
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Phd
+    start: Oct 2009
+    end: Nov 2014
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Machine Learning for Human Posture Recognition.
+    - Multi-Camera network calibration and synchronization.
+    - FPGA hardware design and algorithms acceleration with GPU.
+
+- company:
+    name: Continental
+    url: "https://www.continental.com/"
+    location: Toulouse, France
+    overview: Automotive control units, 
+  positions:
+  - designation: Data Scientist
+    start: May 2012
+    end: Aug 2012
+    responsibilities:
+    - Hand gesture recognition project for BMW AG.
+    - Automation of video data analysis and machine learning tools.
+
+- company:
+    name: ST Microelectronics
+    url: "https://www.st.com/"
+    location: Tunis, Tunisia
+    overview: Video Team in the Set Top box department
+  positions:
+  - designation: Application Engineer
+    start: May 2006
+    end: Jul 2007
+    responsibilities:
+    - Multimedia Standards implementation (HDMI, HDCP, CEC).
+    - Drivers design, implementation and certification
