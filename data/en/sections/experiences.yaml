@@ -15,12 +15,12 @@ experiences:
     url: "https://www.bmw.com"
     location: Munich, Germany
     # company overview
-    overview: Infotainment department. Control units for the BMG Group car models.
+    overview: Infotainment department. Control units for the BMW Group car models.
   positions:
   - designation: System Architect Infotainment
     start: Jul 2019
     responsibilities:
-    - Design cross Control Unit architecture
+    - Design cross Control Units architecture
     - Control Unit software cross domains interfaces design and hardware abstraction concept
     - Software components definition and configuration
 
